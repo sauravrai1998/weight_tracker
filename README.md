@@ -1,4 +1,4 @@
-Simple application for tracking weight.
+## Simple application for tracking weight.
 
 ## Demo
 
