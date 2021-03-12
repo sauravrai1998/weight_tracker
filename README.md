@@ -1,6 +1,7 @@
 Simple application for tracking weight.
 
-## Screenshot
+## Demo
+<img src="images/demo.jpg" width="360" alt="App Demo">
 
 ## Contributing
 
